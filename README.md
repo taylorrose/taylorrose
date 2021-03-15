@@ -1,4 +1,5 @@
-### Hi there 👋
+#Hi, I'm Taylor Rose.
+## I'm a product and marketing executive in the fintech space. I make products useful, usable, discoverable, and buyable. Let’s connect. 
 
 <!--
 **taylorrose/taylorrose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
