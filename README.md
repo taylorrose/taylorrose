@@ -7,7 +7,7 @@ I'm a product and marketing executive in the fintech space. I work to make produ
 
 | Location            | Email              | LinkedIn    | GitHub      | Phone        |
 | ------------------- | ------------------ | ----------- | ----------- | ------------ |
-| Salt Lake City Area | trrose10@gmail.com | [/taylorrose](https://www.linkedin.com/in/taylorrose/)|[/taylorrose](https://github.com/taylorrose/taylorrose/)| 801-900-1456 |
+| Salt Lake City Area | trrose10@gmail.com | [/taylorrose](https://www.linkedin.com/in/taylorrose/)|[/taylorrose](https://github.com/taylorrose)| 801-900-1456 |
 
 ---
 
